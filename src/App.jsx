@@ -1,7 +1,9 @@
+import './index.css';
+
 function App() {
   return (
     <>
-      <div className="App">App</div>
+      <div className="container">App</div>
     </>
   );
 }
